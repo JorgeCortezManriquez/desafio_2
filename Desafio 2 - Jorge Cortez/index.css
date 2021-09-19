@@ -1,0 +1,36 @@
+form {
+  width: 100%;
+  max-width: 450px;
+  text-align: center;
+  border: solid 1px #635a5a;
+  border-radius: 20px;
+  padding-bottom: 10px;
+  margin: auto;
+  background: #363434;
+}
+.numeros {
+    width: 75%;
+    padding: 16px 32px;
+    font-size: 16px;
+    margin: 8px 0;
+    border-radius: 6px;
+    text-align: end;
+    color: rgb(255, 251, 251);
+    background: #333;
+}
+button[type=button]{
+  background-color: #2f224e;
+    border-radius: 20px;
+    color: white;
+    padding: 16px 32px;
+    font-size: 16px;
+    min-width: 15%;
+    margin: 2px 2px;
+    text-decoration: none;
+    
+    cursor: pointer;
+}
+
+
+ 
+
